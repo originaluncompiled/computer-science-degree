@@ -80,17 +80,12 @@ just remember that you can't purchase success!
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
 
-> **Warning:** There are a few third-party/deprecated/outdated material that you might find when searching for OSSU. We recommend you to ignore them, and only use the [OSSU CS website](https://cs.ossu.dev) or [OSSU CS Github Repo](https://github.com/ossu/computer-science). Some known outdated materials are:
->  - An unmaintained and deprecated firebase app. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
->  - An unmaintained and deprecated trello board
->  - Third-party notion templates
-
 # Curriculum
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Intro CS](#intro-cs)
+- [Prerequisites](#prerequisites) ✅
+- [Intro CS](#intro-cs) 🔄
   - [Introduction to Programming](#introduction-to-programming)
   - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
@@ -121,7 +116,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 ## Intro CS
 
-### Introduction to Programming
+### Introduction to Programming 🔄
 
 If you've never written a for-loop, or don't know what a string is in programming, start here. This course is self-paced, allowing you to adjust the number of hours you spend per week to meet your needs.
 
